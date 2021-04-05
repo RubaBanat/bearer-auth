@@ -40,7 +40,7 @@ MONGODB_URI=mongodb+srv://rubabanat:0000@cluster0.ligjz.mongodb.net/myFirstDatab
 ---
 
 
-- [Pull-Request](https://github.com/RubaBanat/bearer-auth/pull/1)
+- [Pull-Request](https://github.com/RubaBanat/bearer-auth/pull/2)
 - [Heroku-deployment](https://bearer-auth-ruba.herokuapp.com/)
 
 ---
