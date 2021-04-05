@@ -50,7 +50,7 @@ users.statics.authenticateBasic = async function (username, password) {
 // BEARER AUTH
 users.statics.authenticateWithToken = async function (token) {
 	try {
-		if (counter < 1) {
+		if (counter < 2) {
 			counter++;
 			const parsedToken = jwt.verify(token, process.env.SECRET);
 			const user = await this.findOne({ username: parsedToken.username });
