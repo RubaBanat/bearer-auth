@@ -1,6 +1,10 @@
 # bearer-auth
 
 
+[Dev](https://github.com/RubaBanat/bearer-auth/tree/dev)
+
+MONGODB_URI=mongodb+srv://rubabanat:0000@cluster0.ligjz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 ---
 
 ## Feature requirement
@@ -36,8 +40,8 @@
 ---
 
 
-- [Pull-Request]()
-- [Heroku-deployment]()
+- [Pull-Request](https://github.com/RubaBanat/bearer-auth/pull/1)
+- [Heroku-deployment](https://bearer-auth-ruba.herokuapp.com/)
 
 ---
 
